@@ -6,4 +6,4 @@ You can see my videos at [https://](https://www.youtube.com/@financial_engineeri
      crossorigin="anonymous"></script>
 
 
-![](./path/example.svg)
+![](./example.svg)
